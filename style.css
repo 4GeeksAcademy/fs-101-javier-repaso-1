@@ -1,0 +1,21 @@
+.hero-img {
+  background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplatinumlist.net%2Fguide%2Fwp-content%2Fuploads%2F2023%2F03%2FIMG-worlds-of-adventure.webp&f=1&nofb=1&ipt=0a7ca87ca3cfb03b7d6688c2fd7bacce512b4c6427a8531dbb75e7c90a2c7eb3&ipo=images');
+  width: 100%;
+  max-height: 50vh;
+  min-height: 30vh;
+}
+
+
+.background-transparent{
+  background-color: rgba(0, 0, 0, 0.483);
+}
+
+
+.myCard{
+  width: 40vw; 
+  background-color: aquamarine;
+}
+
+.myCard:hover{
+  box-shadow: 0px 0px 3px 3px black;
+}
